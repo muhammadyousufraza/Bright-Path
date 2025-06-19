@@ -1,0 +1,91 @@
+
+.depicter-revert.depicter-1 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-1-element-150{
+	font-size:16px;
+	color:#000;
+	font-family:"Roboto";
+	font-weight:900;
+	line-height:120%;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-148{
+	font-size:16px;
+	color:#000;
+	font-family:"Roboto";
+	font-weight:900;
+	line-height:120%;
+	letter-spacing:0px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-130{
+	font-size:45px;
+	color:#08284A;
+	font-family:"Merriweather";
+	font-weight:700;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-1-element-110 .depicter-bullet-item{
+	background-color:#0A0A0A;
+	border-radius:50px 50px 50px 50px ;
+	width:14px;
+	height:14px;
+}
+.depicter-1-element-110 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#ED6F00;
+}
+.depicter-1-element-110 .depicter-bullets-wrapper{
+	gap:5px;
+	flex-direction:row;
+}
+.depicter-revert .depicter-1-element-125{
+	font-size:16px;
+	color:#000;
+	font-family:"Roboto";
+	font-weight:400;
+	line-height:135%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-5{
+	background-color:#FFF;
+	border-radius:7px;
+}
+.depicter-revert .depicter-1-element-5:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-5:not(.depicter-hover-off):hover {
+	box-shadow:-15px 30px 30px 0px rgba(171, 175, 199, 0.3);
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#DEC8B7;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-1-element-150{
+	font-size:14px;
+}
+.depicter-revert .depicter-1-element-148{
+	font-size:14px;
+}
+.depicter-revert .depicter-1-element-130{
+	font-size:40px;
+}
+.depicter-revert .depicter-1-element-125{
+	font-size:13px;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-1-element-130{
+	font-size:30px;
+}
+
+}
